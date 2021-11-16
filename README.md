@@ -1,7 +1,8 @@
 # AI-Virtual-Assistant
+##Python 
 
 
-You need some pacages to install before running these codes..
+You need some Python pacages to install before running these codes..
 absl-py==0.11.0
 appdirs==1.4.4
 astunparse==1.6.3
