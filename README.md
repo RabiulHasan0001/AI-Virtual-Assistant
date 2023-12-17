@@ -1,8 +1,12 @@
 # AI-Virtual-Assistant
+
+Developed a computer-based AI Virtual Assistant utilizing the Python programming language to enable voice-based interactions through computer speakers. Implemented an array of functions such as providing time, date, news, jokes, weather forecasts, opening websites, and desktop applications.
+
+
+
+
 ##Python 
-
-
-You need some Python pacages to install before running these codes..
+You need some Python packages to install before running these codes...
 absl-py==0.11.0
 appdirs==1.4.4
 astunparse==1.6.3
